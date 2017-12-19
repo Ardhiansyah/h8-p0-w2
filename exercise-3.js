@@ -1,6 +1,6 @@
-var tanggal; // assign nilai variabel tanggal disini! (dengan angka antara 1 - 31)
-var bulan; // assign nilai variabel bulan disini! (dengan angka antara 1 - 12)
-var tahun; // assign nilai variabel tahun disini! (dengan angka antara 1900 - 2200)
+var tanggal = 11;
+var bulan = 3;
+var tahun = 1994;
 
 switch(bulan) {
   case 1:   { console.log(tanggal + ' Januari ' + tahun); break; }
