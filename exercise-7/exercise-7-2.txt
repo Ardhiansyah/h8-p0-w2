@@ -1,0 +1,3 @@
+BACA dan SIMPAN "sebuah kata"
+IF "sebuah kata" adalah "Saya Belajar JavaScript!"
+	TAMPILKAN "Pasti Bisa!"

@@ -1,0 +1,6 @@
+SIMPAN "angka pertama" dengan nilai integer 1
+BACA dan SIMPAN "angka kedua"
+ULANGI jika "angka pertama" kurang dari "angka kedua"
+	IF "angka pertama" dimodulus 3 adalah 0
+		TAMPILKAN "angka pertama"
+	SIMPAN "angka pertama" ditambah 1

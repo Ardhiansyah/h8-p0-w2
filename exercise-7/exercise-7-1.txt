@@ -1,0 +1,5 @@
+BACA dan SIMPAN "angka pertama"
+BACA dan SIMPAN "angka kedua"
+HITUNG "angka pertama" dikali "angka kedua"
+SIMPAN hasil hitungan sebelumnya
+TAMPILKAN hasil hitungan
