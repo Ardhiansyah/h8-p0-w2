@@ -1,4 +1,4 @@
-var tahun;
+var tahun = 2017;
 
 if(tahun % 4 == 0){
 	if(tahun % 100 != 0){

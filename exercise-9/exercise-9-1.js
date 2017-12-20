@@ -1,6 +1,6 @@
-var nama;
-var angka_pembilang;
-var angka_penyebut;
+var nama = 'Danu';
+var angka_pembilang = 100;
+var angka_penyebut = 5;
 
 var hasil_bagi = angka_pembilang / angka_penyebut;
 
